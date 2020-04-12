@@ -1,8 +1,8 @@
-# NOW WORK ON 2.2.0
+# NOW WORK ON 2.2.1
 ENJOY xD
 
 # How to install ezKrunker?
-1. Download **[THIS EXTENSION](https://github.com/0x111111/ezKrunker/releases/download/v2.2.0/ezKrunker_v2.2.0.zip)**
+1. Download **[THIS EXTENSION](https://github.com/0x111111/ezKrunker/releases/download/v2.2.1/ezKrunker_v2.2.1.zip)**
 2. Install extension ([How to do this](https://www.youtube.com/watch?v=vW8W19W_X0I))
 3. Enjoy
 
